@@ -8,6 +8,7 @@
 
 1. `data.csv` に名札を作りたい人の名前、所属、アイコン画像へのパスを記述する。
 2. `icon` ディレクトリにアイコン画像を置く。
-3. `main.rb` を編集し、名札のレイアウトを調整する。 (optional)
-4. `bundle install`
-5. `bundle exec ruby main.rb`
+3. `background.png` (背景画像) を編集する。
+4. `main.rb` を編集し、名札のレイアウトを調整する。 (optional)
+5. `bundle install`
+6. `bundle exec ruby main.rb`
