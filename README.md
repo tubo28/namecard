@@ -12,3 +12,4 @@
 4. `main.rb` を編集し、名札のレイアウトを調整する。 (optional)
 5. `bundle install`
 6. `bundle exec ruby main.rb`
+7. `namecards.pdf` に出力される。
